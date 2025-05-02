@@ -7,10 +7,10 @@
 </head>
 <body>
     <h1>olá meu nome é henrique</h1>
-<p>mas é claro , você deve estar perguntando o que faz aqui. Curiosidade ? </p>
+<p>Mas é claro , você deve estar perguntando o que faz aqui. Curiosidade ? </p>
 <p>mas deixa eu te falar , você caiu em um repositório de um desenvolvedor web Raiz . Pois eu faço tudo manual . sem faculdade e com otimas aulas com gustavo guanabara ,<br>
      eu sei deixar seu site de ótimos valores ,
-os repositórios encontrados aqui são de exemplos padrões de sites , <br>
+Os repositórios encontrados aqui são de exemplos padrões de sites . <br>
  você pode copiar os códegos e carregar em seu visual studio e ver a magica acontecer. <br>
 
 nenhuma imagem é minha , e sim de sites secundários. por isso vai rodar.  
