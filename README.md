@@ -15,7 +15,7 @@
         Nenhuma imagem é minha , e sim de sites secundários. por isso vai rodar.  
 </p>
     <p>
-        Para ver mais sobre o que eu consigo fazer clique <a href="https://github.com/Sorrateiro/Henrique-Gregory-Trajano/main/home/home.html"> aqui </a><strong></strong> para ver meu talento <br>
+        Para ver mais sobre o que eu consigo fazer clique <a href="https://github.com/Sorrateiro/Henrique-Gregory-Trajano/blob/main/home/home.html"> aqui </a><strong></strong> para ver meu talento <br>
         Mas antes , copie essa ulr https://sorrateiro.github.io/Henrique-Gregory-Trajano/ e navegue. 
         
     </p>
