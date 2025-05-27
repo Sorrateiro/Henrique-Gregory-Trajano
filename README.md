@@ -14,6 +14,8 @@
         você pode copiar os códegos e carregar em seu visual studio e ver a magica acontecer. <br>
         Nenhuma imagem é minha , e sim de sites secundários. por isso vai rodar.  
 </p>
-
+    <p>
+        Para ver mais sobre o que eu consigo fazer clique <a href="home/home.html">aqui</a>para ver meu talento 
+    </p>
 </body>
 </html>
