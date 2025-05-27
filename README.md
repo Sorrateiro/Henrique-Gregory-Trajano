@@ -14,12 +14,6 @@
         você pode copiar os códegos e carregar em seu visual studio e ver a magica acontecer. <br>
         Nenhuma imagem é minha , e sim de sites secundários. por isso vai rodar.  
 </p>
-    <p>
-
-        Para ver mais sobre o que eu consigo fazer clique <a href="https://sorrateiro.github.io/Henrique-Gregory-Trajano/"> aqui </a><strong></strong> para ver meu talento <br>
-   
-        Mas antes , copie essa ulr https://sorrateiro.github.io/Henrique-Gregory-Trajano/ e navegue. 
-        
-    </p>
+ 
 </body>
 </html>
