@@ -16,10 +16,10 @@
 </p>
     <p>
 
-        Para ver mais sobre o que eu consigo fazer clique <a href=""> aqui </a><strong></strong> para ver meu talento <br>
+        Para ver mais sobre o que eu consigo fazer clique <a href="https://sorrateiro.github.io/Henrique-Gregory-Trajano/"> aqui </a><strong></strong> para ver meu talento <br>
    
         Mas antes , copie essa ulr https://sorrateiro.github.io/Henrique-Gregory-Trajano/ e navegue. 
-        https://sorrateiro.github.io/o-talento/
+        
     </p>
 </body>
 </html>
